@@ -19,7 +19,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <lucene.version>4.6.0</lucene.version>
+        <lucene.version>8.6.2</lucene.version>
         <slf4j-api.version>1.7.5</slf4j-api.version>
     </properties>
     <dependencies>
